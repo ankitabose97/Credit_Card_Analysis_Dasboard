@@ -39,8 +39,8 @@ Overview YTD:
   - Total 10K unique customers analyzed
   - Average Revenue per Customer: 5.49K
   - High-income groups generate a significantly larger share of total revenue
-  - Male customers are contributing more in revenue 31M, female 26M
-  - Blue & Silver credit card are contributing to 93% of overall
+  - Male customers are contributing more in revenue, 31M, female 26M
+  - Blue & Silver credit cards are contributing to 93% of the overall
 WoW change:
   - Revenue increased by 28.8% in last week
 Revenue Drop Analysis
@@ -55,5 +55,6 @@ Revenue Drop Analysis
   - Transaction volume increases across quarters, indicating growing engagement
   - Week-over-Week analysis shows fluctuations with notable dips (e.g., week 52)
 
-<https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Customers.png>
-<https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Transactions.png>
+(https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Customers.png)
+
+(https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Transactions.png)
