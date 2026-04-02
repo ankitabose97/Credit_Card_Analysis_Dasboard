@@ -55,6 +55,6 @@ Revenue Drop Analysis
   - Transaction volume increases across quarters, indicating growing engagement
   - Week-over-Week analysis shows fluctuations with notable dips (e.g., week 52)
 
-(https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Customers.png)
 
+# Dashboard
 (https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Transactions.png)
