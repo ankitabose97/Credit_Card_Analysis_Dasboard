@@ -1,4 +1,4 @@
-# Credit_Card_Analysis_Dasboard
+# Credit_Card_Analysis_Dashboard
 ## 📌 Overview
 
 I built an end-to-end Power BI dashboard to analyze $57M in credit card transactions, identified that Blue card users and high-income segments drive most revenue, and analyzed weekly fluctuations including revenue drops. The dashboard provides insights into customer behavior, revenue trends, transaction patterns, and business performance for the year 2025.
