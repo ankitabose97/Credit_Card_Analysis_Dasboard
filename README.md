@@ -58,3 +58,5 @@ Revenue Drop Analysis
 
 # Dashboard
 ![Alt text](https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Transactions.png)
+
+![Alt text](https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Customers.png)
