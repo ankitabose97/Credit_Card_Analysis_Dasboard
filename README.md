@@ -48,11 +48,12 @@ Revenue Drop Analysis
   - Major decline driven by high-value customer segment
   - Indicates possible seasonal or behavioral drop in spending
 
-https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Customers.png
-
 
 📊 Transaction Insights
   - Total transactions: 667K
   - TX, NY & CA is contributing to 68%
   - Transaction volume increases across quarters, indicating growing engagement
   - Week-over-Week analysis shows fluctuations with notable dips (e.g., week 52)
+
+<https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Customers.png>
+<https://github.com/ankitabose97/Credit_Card_Analysis_Dasboard/blob/main/CC-%20Transactions.png>
